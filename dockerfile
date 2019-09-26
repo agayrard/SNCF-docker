@@ -1,2 +1,2 @@
 FROM nginx
-COPY SNCF-docker /usr/share/nginx/html
+COPY html-content /usr/share/nginx/html
